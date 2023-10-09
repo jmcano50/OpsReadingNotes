@@ -4,7 +4,7 @@
 
 ### Reading #1
 
-Growth Mind Set - How can I keep a growth  mind set
+Growth Mind Set - How can I keep a growth  mindset
 1. this
 2. this
 3. or this
@@ -16,3 +16,6 @@ Tools to use
 4. Slack
 5. Canvas
 6. Zoom
+
+I used the following script in today's lab
+https://github.com/huner2/Cyber-Security-Scripts
