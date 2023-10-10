@@ -1,5 +1,5 @@
 # Reading 2
-##Readings: Build a Computer
+## Readings: Build a Computer
 
 1.	Which is better in a CPU, more cores or higher speed?
 The choice between more cores and higher speeds depends on the specific use. More cores are good for tasks that can be concurrent, such as video editing, 3D rendering, and scientific simulations, as they allow the CPU to handle multiple tasks at the same time. Higher speed (clock frequency) is better for single-thread tasks that require fast sequential processing, like many gaming applications. The ideal balance between cores and speed depends on your computing needs.
