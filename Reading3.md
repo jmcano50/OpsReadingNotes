@@ -1,6 +1,7 @@
-#Juan Miguel Cano						October 10, 2023
+# Juan Miguel Cano						October 10, 2023
 
-##Reading 3 HowToGeek What is BIOS, Learn Computer Science - What is BIOS: Only read down to the end of the CMOS section.
+## Reading 3 HowToGeek What is BIOS, Learn Computer Science - What is BIOS: Only read down to the end of the CMOS section.
+
 1.	What is the BIOS?
 •	Basic Input Output System utility program loads the operating system when the computer is turned on.
 2.	Use analogies from your previous background to explain what happens during the booting process?
