@@ -1,4 +1,4 @@
-##Juan Miguel Cano						October 10, 2023
+#Juan Miguel Cano						October 10, 2023
 
 ##Reading 3 HowToGeek What is BIOS, Learn Computer Science - What is BIOS: Only read down to the end of the CMOS section.
 1.	What is the BIOS?
