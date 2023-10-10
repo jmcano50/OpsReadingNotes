@@ -12,3 +12,13 @@
 •	Complementary Metal-Oxide-Semiconductor refers to both a semiconductor technology used in computer chips and a specific component in computers. In computer hardware, CMOS typically refers to the CMOS memory and CMOS battery. The CMOS memory stores crucial system settings like date, time, and BIOS configuration. 
 5.	What is the CMOS battery?
 •	The CMOS battery provides power to maintain these settings when the computer is turned off. When the CMOS battery fails, it can lead to issues with incorrect system settings, highlighting its importance in maintaining system integrity.
+
+Notes: 
+Future Learn
+  CPU - Brains of Computer
+  RAM - Temp stores data
+  ROM - Read-only memory stores the BIOS
+  Hard Drive - main storage
+  BIOS -  contains all the basic code for controlling your computer hardware 
+  Operating System - the operating system is normally stored on the hard drive, but you 
+  can load an operating system from a USB drive or a CD instead
