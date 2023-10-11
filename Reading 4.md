@@ -16,3 +16,10 @@ What is the Ubuntu GNOME Shell?
 
 How do I install software from the command line?
 •	To install software from the command line, use package management tools like apt on Debian/Ubuntu. First, update the package repository information with apt update or yum/dnf update, and then install the desired software with apt install or yum/dnf install, replacing "package-name" with the software you want. Always use sudo for superuser privileges when running these commands.
+
+
+Resources Used:
+•	 https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722
+•	https://www.youtube.com/watch?v=5ocq6_3-nEw
+
+
