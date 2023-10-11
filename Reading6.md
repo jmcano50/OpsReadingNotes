@@ -26,9 +26,6 @@ o	In Windows: ren old_name new_name (for renaming) or move old_name new_director
 •	Special characters:
 o	~ (tilde): Represents the user's home directory.
 o	/ (slash): Denotes the root directory in Unix-like systems.
-4.	Explain what Linux is, using anything except English.
-•	 
-
-•	Linux est un système d'exploitation open-source basé sur Unix. Il est utilisé dans le monde entier pour diverses applications, du mobile aux serveurs. Il est connu pour sa stabilité et sa personnalisation.
+4.	Explain what Linux is, using anything except English.•	Linux est un système d'exploitation open-source basé sur Unix. Il est utilisé dans le monde entier pour diverses applications, du mobile aux serveurs. Il est connu pour sa stabilité et sa personnalisation.
 Resources Used:
 •	 https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
