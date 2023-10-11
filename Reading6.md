@@ -1,6 +1,6 @@
 ## Juan Miguel Cano						October 11, 2023
 
-## Readings: SOHO Networking
+## **Readings: SOHO Networking**
 
 Below you will find reading materials and videos that support today’s topic and the upcoming lecture.
 Reading
