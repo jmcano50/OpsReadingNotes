@@ -6,7 +6,7 @@ Below you will find reading materials and videos that support today’s topic an
 Reading
 
 
-1.	What makes the Linksys WRT54GL famous?   The Linksys WRT54GL is famous for its open-source firmware and its role in the development of custom router firmware like DD-WRT.
+**1.	What makes the Linksys WRT54GL famous?   The Linksys WRT54GL is famous for its open-source firmware and its role in the development of custom router firmware like DD-WRT.**
 
 2.	Given it’s age, why do people continue to buy the Linksys WRT54GL?   People still buy the Linksys WRT54GL due to its reputation for customization and nostalgia, but it may not be the best choice for modern internet needs.
 
