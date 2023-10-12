@@ -1,13 +1,14 @@
 Juan Miguel Cano								October 12, 2023
 
-#Class 7
+# Class 7
 
-##Readings: Network Connectivity
+##
+Readings: Network Connectivity
 
 Below, you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 Reading
 
-#**SSH Protocol**
+**SSH Protocol**
 
 **1.	What is the Secure Shell (SSH) Protocol?** The SSH Protocol is a secure remote login and file transfer method offering strong authentication, encryption, and data integrity. It is used for secure access, file transfers, and remote command execution.
 
