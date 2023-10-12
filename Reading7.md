@@ -57,3 +57,9 @@ RDP (Remote Desktop Protocol) is a Microsoft-developed protocol for remote compu
 **3.	What is the RDP port number?**	
 
 The default port number for RDP (Remote Desktop Protocol) is 3389. This port is used for RDP connections on Windows-based computers. However, it is essential to note that changing the default RDP port to a non-standard port is often recommended for security reasons to help protect against unauthorized access and security threats.
+
+**Resources Used:**
+
+https://www.ssh.com/ssh/protocol/
+
+https://www.comparitech.com/net-admin/what-is-rdp/
