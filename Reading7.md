@@ -29,6 +29,7 @@ Reading
 **5.	What is SFTP?**	SFTP stands for "SSH File Transfer Protocol." It is a secure file transfer protocol that runs over SSH. SFTP provides a secure way to transfer files between computers, ensuring data encryption and integrity. It is a safer alternative to traditional FTP for secure file transfers.
 
 **What is RDP? And how to use it?**
+
 •	RDP (Remote Desktop Protocol) is a Microsoft-developed protocol for remote computer access. To use it:
 o	Enable RDP on the host computer.
 o	Find the host computer's IP address or hostname.
