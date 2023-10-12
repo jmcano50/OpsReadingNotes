@@ -2,8 +2,7 @@ Juan Miguel Cano								October 12, 2023
 
 # Class 7
 
-##
-Readings: Network Connectivity
+## Readings: Network Connectivity
 
 Below, you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 Reading
