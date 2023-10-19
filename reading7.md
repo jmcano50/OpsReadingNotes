@@ -63,3 +63,5 @@ The default port number for RDP (Remote Desktop Protocol) is 3389. This port is 
 https://www.ssh.com/ssh/protocol/
 
 https://www.comparitech.com/net-admin/what-is-rdp/
+
+Lab: https://docs.google.com/document/d/13LmuhP1GhtvK2DzMYJ5BWOOcwsfJvzkDFvJsj4YGVko/edit?usp=sharing
