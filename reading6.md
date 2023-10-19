@@ -29,7 +29,8 @@ Reading
 Fascinating history: What one home router can do - The WRT54GL
  https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/
 
-Lab: https://docs.google.com/document/d/1ZAbjKSEUdM694NVh1-rvG2ddZMLGgDdJ72SGBgUOiqk/edit?usp=sharing
+Lab: https://docs.google.com/document/d/1d7_S3g0Cf9JVSKYEGbwc4eZL-78UAf0tEqpoF1IAwj8/edit?usp=sharing
+
 
 
 
