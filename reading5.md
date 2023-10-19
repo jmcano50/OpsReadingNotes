@@ -29,3 +29,6 @@ o	/ (slash): Denotes the root directory in Unix-like systems.
 4.	Explain what Linux is, using anything except English.•	Linux est un système d'exploitation open-source basé sur Unix. Il est utilisé dans le monde entier pour diverses applications, du mobile aux serveurs. Il est connu pour sa stabilité et sa personnalisation.
 Resources Used:
 •	 https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+https://docs.google.com/document/d/1ZAbjKSEUdM694NVh1-rvG2ddZMLGgDdJ72SGBgUOiqk/edit?usp=sharing
+
