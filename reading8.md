@@ -49,3 +49,5 @@ o	The contents of the ISO will be accessible in the mount directory.
 
 **Resources Used:** https://www.lifewire.com/iso-file-2625923
 
+Lab: https://docs.google.com/document/d/1BaWKJwZB-LH5fRAVlXUeQSTBagRNld_7T3cAWFCTSRI/edit?usp=sharing
+
