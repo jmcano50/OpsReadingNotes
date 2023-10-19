@@ -30,5 +30,5 @@ o	/ (slash): Denotes the root directory in Unix-like systems.
 Resources Used:
 •	 https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
-https://docs.google.com/document/d/1ZAbjKSEUdM694NVh1-rvG2ddZMLGgDdJ72SGBgUOiqk/edit?usp=sharing
+Lab: https://docs.google.com/document/d/1ZAbjKSEUdM694NVh1-rvG2ddZMLGgDdJ72SGBgUOiqk/edit?usp=sharing
 
