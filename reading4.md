@@ -22,6 +22,6 @@ Resources Used:
 •	 https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722
 •	https://www.youtube.com/watch?v=5ocq6_3-nEw
 
-https://docs.google.com/document/d/1xxjiprVy53Gf3HKxhxID0-rLz9fctAEQBois9BVmmDo/edit?usp=sharing
+Lab: https://docs.google.com/document/d/1xxjiprVy53Gf3HKxhxID0-rLz9fctAEQBois9BVmmDo/edit?usp=sharing
 
 
