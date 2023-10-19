@@ -35,5 +35,5 @@ I would start by comparing a computer to something they are familiar with, like 
 •	Case: Think of it as the protective shell for your toolbox. It keeps everything organized and safe from dust or damage.
 People with similar backgrounds can better understand how these parts work together to create a functional computer system by relating computer components to familiar concepts.
 
-https://docs.google.com/document/d/1EPwbarAN3jai5MdK17-3JMgMSXdsmFoh9-Wvr9z3NA4/edit?usp=sharing
+Lab: https://docs.google.com/document/d/1EPwbarAN3jai5MdK17-3JMgMSXdsmFoh9-Wvr9z3NA4/edit?usp=sharing
 
