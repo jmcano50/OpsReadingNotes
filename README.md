@@ -10,4 +10,3 @@ Ops 102 Readings
 - [Reading 7](reading7.md)
 - [Reading 8](reading8.md)
 - [Reading 9](reading9.md)
-  
