@@ -27,6 +27,9 @@ Tracing Back to the Source:
 •	Trace Supply Chain: They follow the chip's path back to where it was made.
 •	Attribution: Authorities figure out who did it through investigation and intelligence work.
 
+https://docs.google.com/document/d/148UqronpHVabiu5KEluSbL7bujQr6LXz8qe8pcNEhiM/edit?usp=sharing
+
+
 
 
 
