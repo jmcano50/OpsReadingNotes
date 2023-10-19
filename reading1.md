@@ -1,4 +1,4 @@
-# Juans Ops Reading Notes
+# Juans Ops102 Reading Notes
 
 ## Ops Readings
 
