@@ -32,3 +32,6 @@ Reading
 
 Resources Used: https://www.lifewire.com/command-prompt-2625840
 Chatgpt
+
+Lab: https://docs.google.com/document/d/1Ivml2Z0pfpLE_HeiXdF-6CyrS7pgbNCTmduqCUn0mw0/edit?usp=sharing
+
