@@ -6,19 +6,20 @@ Below you will find some reading materials and additional resources that support
 Review the Submission Instructions for guidance on completing and submitting this assignment.
 
 Reading
-**What is Bash?**
+
+***What is Bash?***
 
 -Bash, short for "Bourne-Again Shell," is a command-line interface (CLI) and scripting language for Unix-like operating systems. It is the default shell for many Linux distributions and macOS. Bash provides a way for users to interact with the operating system by typing commands in a text-based interface.
   
-**What is the primary function of a shell in a computer’s operating system?**
+***What is the primary function of a shell in a computer’s operating system?***
 
 -The primary function of a shell is to act as an intermediary between the user and the operating system. It allows users to interact with the OS by accepting commands and providing a way to run programs, manage files, and perform various system tasks.
 
-**How does Bash locate and execute commands on a Linux or Unix system?**
+***How does Bash locate and execute commands on a Linux or Unix system?***
 
 -Bash locates and executes commands by searching for executable files in directories listed in the system's "PATH" environment variable. When you enter a command, Bash checks each directory in the PATH to find a matching executable file. Once it finds the command, it executes it.
 
-**How can you determine if your system is running a Bash shell?**
+***How can you determine if your system is running a Bash shell?***
 
 -You can determine if your system is running a Bash shell by opening a terminal or command prompt and typing the following command:
 
@@ -26,7 +27,7 @@ Reading
 
 -This command will display the path to the shell that is currently running. If it's Bash, you will see something like "/bin/bash."
 
-**What makes Bash scripting powerful and why is it considered scriptable?**
+***What makes Bash scripting powerful and why is it considered scriptable?***
 
 **Bash scripting allows for customization, automation, and efficiency. Discuss methods or practices from your previous work experience or cultural background that aim to achieve similar goals in daily tasks.**
 
