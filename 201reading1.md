@@ -26,8 +26,7 @@ If System Restore did not resolve the issue, you have a few options:
 -Seek additional troubleshooting: You may need to diagnose the problem further or seek help from technical support or online forums to find a solution.
 
 ## Things I want to know more about: 
-
-Nothing at this time.
+nothing at this time
 
 Resources Used: https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
 
