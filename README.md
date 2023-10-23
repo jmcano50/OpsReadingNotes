@@ -14,6 +14,7 @@ This is my ops reading notes
 ## Ops 201: Foundations of Computer Operations
 - [Metocognative Map](prompt-engineering.md)
 - [Backup Your System](201BackupYourSystemReading1.md)
+- [Lab:Class01 Backup Your System](Seattle-ops-201d14Lab:Class01.md)
 - [Dev Tools](201reading2.md)
 
 ## Ops 301: Networking and Systems Administration
