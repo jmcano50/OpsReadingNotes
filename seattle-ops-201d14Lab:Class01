@@ -1,0 +1,32 @@
+Document Your Approach:
+Create a document or presentation that outlines your plan for sorting .ova image files and managing storage. This documentation will help reviewers understand your strategy. Include details on the following:
+
+a. File Naming Convention: Explain how you will name the .ova files with their class code or purpose. For example, if you have class codes like A123 and B456, you could name the files "A123_filename.ova" and "B456_filename.ova."
+
+b. Folder Structure: Describe the folder structure you plan to implement for organizing the files. You could have separate folders for each class code or purpose, making it easier to locate files.
+
+c. Storage Location: Specify the second disk where you will store the .ova files. Ensure you have at least 120 GB of space available on this disk.
+
+d. Automated or Manual Sorting: Explain whether you will sort the files manually or use automation scripts to categorize and organize them.
+
+e. Backup Strategy: If relevant, discuss your backup strategy to ensure data integrity and recovery in case of disk failure.
+
+Demonstrate Implementation:
+If you have already implemented your sorting and storage system, take screenshots or record a video demonstrating how it works. Show the directory structure, file naming, and available storage space. If you're using any automation tools or scripts, briefly explain how they function.
+
+Test Data: If possible, use sample .ova files to demonstrate your sorting and storage system in action. Create a few files with different class codes or purposes and show how they are correctly sorted and named within your system.
+
+Storage Capacity Verification:
+Use a disk space monitoring tool or built-in OS features to show that you have at least 120 GB of free space on your second disk. Include a screenshot or a report from the tool to confirm this.
+
+Contingency Plan:
+Describe what you'll do if you approach the storage limit or if you run out of space. Will you archive old files, expand your storage, or take other actions to ensure you maintain at least 120 GB of free space?
+
+Compliance with Requirements:
+Clearly state how your approach meets or exceeds the minimum requirements specified (120 GB of space on a second disk and organized .ova files).
+
+Consider User Interface (Optional):
+If this system will be used by others, consider creating a user-friendly interface for file management and storage, and demonstrate its usability.
+
+Final Check and Presentation:
+Review your documentation and demonstration to ensure it is clear and comprehensive. Present your submission in a well-organized manner, and make sure that the sorting and storage system is functioning as described.
