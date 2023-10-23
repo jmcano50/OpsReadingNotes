@@ -12,7 +12,7 @@ This is my ops reading notes
 - [Reading 9](reading9.md)
 
 ## Ops 201: Foundations of Computer Operations
-
+- [Metocognative Map](prompt-engineering.md)
 ## Ops 301: Networking and Systems Administration
 
 ## Ops 401: Cybersecurity Engineering
