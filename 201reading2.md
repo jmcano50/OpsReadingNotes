@@ -33,13 +33,13 @@ Reading
 
 Bash scripting is powerful for several reasons:
 
-1. It allows for automation: You can write scripts to automate repetitive tasks, saving time and reducing human error.
+  1. It allows for automation: You can write scripts to automate repetitive tasks, saving time and reducing human error.
 
-2. It offers extensive system access: Bash scripts can interact with the file system, network, and various system utilities.
+  2. It offers extensive system access: Bash scripts can interact with the file system, network, and various system utilities.
 
-3. It provides conditional logic and loops: Bash supports if-else statements and loops, making it versatile for decision-making and repetition.
+  3. It provides conditional logic and loops: Bash supports if-else statements and loops, making it versatile for decision-making and repetition.
 
-4. It's extensible: You can use variables and functions in scripts to make them more modular and reusable.
+  4. It's extensible: You can use variables and functions in scripts to make them more modular and reusable.
 
 Resources Used: https://opensource.com/resources/what-bash
 
