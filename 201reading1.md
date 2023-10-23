@@ -15,14 +15,20 @@ The time it takes to use the System Restore tool can vary depending on several f
 
 **How do you start a System Restore from the command prompt?**
 To start System Restore from the command prompt, you can follow these steps:
+
 -Open the Command Prompt with administrative privileges (you can search for "cmd" in the Start menu, right-click, and choose "Run as administrator").
+
 -Type the following command and press Enter: rstrui.exe.
+
 -This command opens the System Restore utility, allowing you to select a restore point and initiate the restoration process.
 
 **What options are available if System Restore did not fix the problem?**
 If System Restore did not resolve the issue, you have a few options:
+
 -Try restoring to a different restore point: Sometimes, a different restore point may work better.
+
 -Manually uninstall recently installed software or drivers: If you suspect a particular software or driver caused the issue, uninstalling it manually may help.
+
 -Seek additional troubleshooting: You may need to diagnose the problem further or seek help from technical support or online forums to find a solution.
 
 ## Things I want to know more about: 
