@@ -9,7 +9,7 @@ This is my ops reading notes
 - [SOHO Networking](reading6.md)
 - [Network Connectivity](reading7.md)
 - [Virtualization of Windows OS](reading8.md)
-- [Reading 9](reading9.md)
+- [Command Line Interface](reading9.md)
 
 ## Ops 201: Foundations of Computer Operations
 - [Metocognative Map](prompt-engineering.md)
