@@ -1,7 +1,7 @@
 # Ops-Reading-Notes
 This is my ops reading notes
 ## Ops 102: Intro to Computer Operations
-- [Reading 1](reading1.md)
+- [Case Study: China’s Spy Chip](reading1.md)
 - [Reading 2](reading2.md)
 - [Reading 3](reading3.md)
 - [Reading 4](reading4.md)
