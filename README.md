@@ -4,7 +4,7 @@ This is my ops reading notes
 - [Case Study: China’s Spy Chip](reading1.md)
 - [Build a Computer](reading2.md)
 - [What is the BIOS](reading3.md)
-- [Reading 4](reading4.md)
+- [Installing Ubuntu Linux](reading4.md)
 - [Reading 5](reading5.md)
 - [Reading 6](reading6.md)
 - [Reading 7](reading7.md)
