@@ -3,7 +3,7 @@ This is my ops reading notes
 ## Ops 102: Intro to Computer Operations
 - [Case Study: China’s Spy Chip](reading1.md)
 - [Build a Computer](reading2.md)
-- [Reading 3](reading3.md)
+- [What is the BIOS](reading3.md)
 - [Reading 4](reading4.md)
 - [Reading 5](reading5.md)
 - [Reading 6](reading6.md)
