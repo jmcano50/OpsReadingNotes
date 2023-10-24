@@ -1,5 +1,5 @@
-# 201 Class 02
-## Dev Tools
+## 201 Class 02
+# Dev Tools
 
 Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
 
