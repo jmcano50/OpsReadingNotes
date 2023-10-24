@@ -7,7 +7,7 @@ This is my ops reading notes
 - [Installing Ubuntu Linux](reading4.md)
 - [Installing Virtualbox with Linux Terminal](reading5.md)
 - [SOHO Networking](reading6.md)
-- [Reading 7](reading7.md)
+- [Network Connectivity](reading7.md)
 - [Reading 8](reading8.md)
 - [Reading 9](reading9.md)
 
