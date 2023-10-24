@@ -23,7 +23,8 @@ Reading
 
   -You can determine if your system is running a Bash shell by opening a terminal or command prompt and typing the following command:
 
-@@echo $SHELL@@
+echo $SHELL
+ <h1 style="color:purple;">Hello World</h1>
 
   -This command will display the path to the shell that is currently running. If it's Bash, you will see something like "/bin/bash."
 
