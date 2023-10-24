@@ -8,7 +8,7 @@ This is my ops reading notes
 - [Installing Virtualbox with Linux Terminal](reading5.md)
 - [SOHO Networking](reading6.md)
 - [Network Connectivity](reading7.md)
-- [Reading 8](reading8.md)
+- [Virtualization of Windows OS](reading8.md)
 - [Reading 9](reading9.md)
 
 ## Ops 201: Foundations of Computer Operations
