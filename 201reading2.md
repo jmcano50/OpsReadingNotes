@@ -51,4 +51,4 @@ In various work environments and cultural backgrounds, achieving customization, 
 
 Resources Used: https://opensource.com/resources/what-bash
 
-I worked with Chat-GPT with a prompt to each question to get a better understanding of each question and answer. 
+I worked with Chat-GPT with a prompt for each question to get a better understanding of each question and provide the most accurate answers. 
