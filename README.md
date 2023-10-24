@@ -15,7 +15,8 @@ This is my ops reading notes
 - [Metocognative Map](prompt-engineering.md)
 - [Backup Your System](201BackupYourSystemReading1.md)
 - [Dev Tools](201reading2.md)
-
+- [Issue tracking system](201reading3.md)
+  
 ## Ops 301: Networking and Systems Administration
 
 ## Ops 401: Cybersecurity Engineering
