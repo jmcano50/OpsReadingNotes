@@ -1,5 +1,5 @@
 ## 201 Class 3
-## Issue tracking system
+# Issue tracking system
 
 Below you will find some reading materials and additional resources that support today’s topic and the upcoming lecture.
 
