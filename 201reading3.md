@@ -52,4 +52,11 @@ Support the organization's security policies and protocols.
 
 **Critical Thinking Skills:** Critical thinking is essential for diagnosing complex issues that may not have straightforward solutions. When faced with novel or intricate problems, help desk technicians need to think critically to ask the right questions, gather relevant information, and analyze symptoms to determine the root cause. Critical thinking also helps them draw on their experience and knowledge to resolve unique or challenging issues.
 
+Resources Used: https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5
+
+I worked with Chat-GPT with a prompt for each question to get a better understanding of each question and provide the most accurate answers.
+
+## Things I want to know more about:
+
+I would like to see more about how my prior hard and soft skills as a United States Marine and Chicago Police Officer relate to the IT and Cybersecurity field and how I can use this information to align myself with the best employment culture where I would be the most successful.
 
