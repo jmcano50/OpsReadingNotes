@@ -17,6 +17,8 @@ This is my ops reading notes
 - [Dev Tools](201reading2.md)
 - [Issue tracking system](201reading3.md)
 - [Troubleshooting Techniques](201reading4.md)
+- [Windows Command Line Tools](201reading5.md)
+
 
  
  
