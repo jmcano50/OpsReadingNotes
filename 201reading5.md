@@ -1,4 +1,4 @@
-## Juan Miguel Cano								October 22, 2023
+Juan Miguel Cano								October 22, 2023
 
 ## Windows Command Line Tools
 Reading
