@@ -13,11 +13,13 @@ This is my ops reading notes
 
 ## Ops 201: Foundations of Computer Operations
 - [Metocognative Map](prompt-engineering.md)
-- [Backup Your System](201BackupYourSystemReading1.md)
+- [Backup Your System][def]
 - [Dev Tools](201reading2.md)
 - [Issue tracking system](201reading3.md)
 - [Troubleshooting Techniques](201reading4.md)
 - [Windows Command Line Tools](201reading5.md)
+- [Windows Security Center](201reading6.md)
+
 
 
  
@@ -25,3 +27,6 @@ This is my ops reading notes
 ## Ops 301: Networking and Systems Administration
 
 ## Ops 401: Cybersecurity Engineering
+
+
+[def]: 201reading1.md
