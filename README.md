@@ -19,10 +19,8 @@ This is my ops reading notes
 - [Troubleshooting Techniques](201reading4.md)
 - [Windows Command Line Tools](201reading5.md)
 - [Windows Security Center](201reading6.md)
+- [OS Upgrade and Remote Access](201reading7.md)
 
-
-
- 
  
 ## Ops 301: Networking and Systems Administration
 
