@@ -22,3 +22,10 @@
 **5.Imagine you are part of a multicultural team following an SOP. How would you handle misunderstandings due to cultural differences? What strategies can help with cross-cultural communication?**
 
 •	To address cultural differences in a multicultural team, use simple language, visuals, and training. Encourage open communication, cultural sensitivity, and feedback. Consider pairing team members from different backgrounds to learn from each other.
+
+Resource Used: 
+https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx
+
+I worked with Chat-GPT with a prompt for each question to get a better understanding of each question and provide the most accurate answers.
+
+OpenAI. (2023). ChatGPT (September 25 Version) [Large language model]. 
