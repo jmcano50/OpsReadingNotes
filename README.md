@@ -20,6 +20,10 @@ This is my ops reading notes
 - [Windows Command Line Tools](201reading5.md)
 - [Windows Security Center](201reading6.md)
 - [OS Upgrade and Remote Access](201reading7.md)
+- [System Log analysis,Registry,ControlPanel](201reading8.md)
+- [Workstation Deployment SOP](201reading9.md)
+
+
 
  
 ## Ops 301: Networking and Systems Administration
