@@ -22,8 +22,7 @@ This is my ops reading notes
 - [OS Upgrade and Remote Access](201reading7.md)
 - [System Log analysis,Registry,ControlPanel](201reading8.md)
 - [Workstation Deployment SOP](201reading9.md)
-
-
+- [Imaging,Backup, and Recovery](201reading10.md)
 
  
 ## Ops 301: Networking and Systems Administration
