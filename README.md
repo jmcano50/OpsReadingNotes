@@ -23,6 +23,7 @@ This is my ops reading notes
 - [System Log analysis,Registry,ControlPanel](201reading8.md)
 - [Workstation Deployment SOP](201reading9.md)
 - [Imaging,Backup, and Recovery](201reading10.md)
+-[Data Restoration, Startup Repair, and Secure Disposal](201reading11.md)
 
  
 ## Ops 301: Networking and Systems Administration
