@@ -1,3 +1,7 @@
+*Juan Miguel Cano*
+
+Novemer 17, 2023
+
 # Ops-Reading-Notes
 This is my ops reading notes
 ## Ops 102: Intro to Computer Operations
