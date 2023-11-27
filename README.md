@@ -31,11 +31,11 @@ This is my ops reading notes
 - [Virtualizing a Router with pfSense](201reading12.md)
 - [Importance of Virtualization in the Amazon EC2 Cloud](201reading13.md)
 - [Malware Remediation Tools and Techniques](201reading14.md)
-
-
-
  
 ## Ops 301: Networking and Systems Administration
+
+- [Readings: Network Traffic Analysis with Wireshark](301reading1.md)
+
 
 ## Ops 401: Cybersecurity Engineering
 
