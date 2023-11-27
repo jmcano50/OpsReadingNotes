@@ -1,5 +1,3 @@
-#301reading1.md
-
 *Juan Miguel Cano*
 November 26, 2023
 
