@@ -1,7 +1,9 @@
 *Juan Miguel Cano*
 November 26, 2023
 
-## Layers of OSI Model
+## Readings: Network Traffic Analysis with Wireshark
+
+**Layers of OSI Model**
 
 **What does “OSI” stand for?**
 
