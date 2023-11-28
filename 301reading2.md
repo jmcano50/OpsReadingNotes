@@ -44,7 +44,7 @@ For Lecture & Lab
 - **SSH** - TCP port 22: used for secure remote access to a device over a network
 - **DNS** - UDP port 53: used to translate human-readable domain names into IP addresses.
 - **SMTP** - TCP port 25: used for the transmission of email between servers.
-- HTTP** - TCP port 80: is the foundation of data communication on the World Wide Web.
+- **HTTP** - TCP port 80: is the foundation of data communication on the World Wide Web.
 - **HTTPS** - TCP port 443: is the secure version of HTTP. It uses encryption (SSL/TLS), commonly used for secure transitions on the web, to ensure secure data transfer.
 - **RDP** - TCP port 3389: is a proprietary protocol developed by Microsoft. It provides a user with a graphical interface to connect to another computer over a network connection.
 - **Ping** - ICMP: doesn’t use a specific port but relies on Internet Control Message Protocol (ICMP). It is a network diagnostic tool used to test the reachability of a host on an Internet Protocol (IP) network.
