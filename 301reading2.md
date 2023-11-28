@@ -52,6 +52,9 @@ For Lecture & Lab
 **Resources Used:**
  
 https://chat.openai.com/share/205e9823-a466-4649-8a1f-28ec6de82c9c
+
 https://www.varonis.com/blog/port-scanning-techniques/
+
 https://www.professormesser.com/network-plus/n10-008/n10-008-video/common-ports-n10-008/
+
 https://chat.openai.com/share/bd2f73f5-f3a4-44d3-b9d8-d23ca6980653
