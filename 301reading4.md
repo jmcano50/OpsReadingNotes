@@ -28,4 +28,11 @@ Which network mode in VirtualBox can be used to emulate unplugging the Ethernet 
 https://chat.openai.com/share/43ffd8fa-5fdf-480f-a7f2-72436701e01d
 https://www.nakivo.com/blog/virtualbox-network-setting-guide/
 
+https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-topologies-5/
+
+https://www.professormesser.com/network-plus/n10-008/n10-008-video/routing-technologies-n10-008/
+
+https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-dynamic-routing/
+
+https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-switching-overview-n10-008/
 
