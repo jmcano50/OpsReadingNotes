@@ -5,6 +5,7 @@ November 30, 2023
 
 ## Reading 5
 **What is a Site-to-Site VPN?**
+
 https://www.fortinet.com/fr/resources/cyberglossary/what-is-site-to-site-vpn
 
 **What is a site-to-site VPN?**
