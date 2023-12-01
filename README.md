@@ -37,6 +37,7 @@ This is my ops reading notes
 - [Readings: Network Traffic Analysis with Wireshark](301reading1.md)
 - [Network scanning with NMAP](301reading2.md)
 - [Network Segmentation](301reading3.md)
+- [Routing](301reading4.md)
 
 
 ## Ops 401: Cybersecurity Engineering
