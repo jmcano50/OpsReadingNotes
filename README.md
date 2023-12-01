@@ -39,6 +39,7 @@ This is my ops reading notes
 - [Network scanning with NMAP](301reading2.md)
 - [Network Segmentation](301reading3.md)
 - [Routing](301reading4.md)
+- [VPN Tunnel](301reading5.md)
 
 
 ## Ops 401: Cybersecurity Engineering
