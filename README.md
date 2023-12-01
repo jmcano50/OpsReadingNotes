@@ -1,6 +1,6 @@
 *Juan Miguel Cano*
 
-November 17, 2023
+*November 17, 2023*
 
 # Ops-Reading-Notes
 This is my ops reading notes
@@ -31,7 +31,8 @@ This is my ops reading notes
 - [Virtualizing a Router with pfSense](201reading12.md)
 - [Importance of Virtualization in the Amazon EC2 Cloud](201reading13.md)
 - [Malware Remediation Tools and Techniques](201reading14.md)
- 
+
+*November 27, 2023* 
 ## Ops 301: Networking and Systems Administration
 
 - [Readings: Network Traffic Analysis with Wireshark](301reading1.md)
