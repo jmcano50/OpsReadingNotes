@@ -40,6 +40,7 @@ This is my ops reading notes
 - [Network Segmentation](301reading3.md)
 - [Routing](301reading4.md)
 - [VPN Tunnel](301reading5.md)
+- [Network Address Translation](301reading6.md)
 
 
 ## Ops 401: Cybersecurity Engineering
