@@ -21,16 +21,12 @@
 **How does NGINX handle tasks that could slow down the web server?**
 
 - Asynchronous Architecture
-- Efficient Resource Usage
-- Caching
-- Optimized
-- Connection Handling
+- Load Balancer for distribution
+- SSL terminaiton and content caching
 
 **Describe, as if to a non-technical friend how to actually pronounce “NGINX”, and why an org might chooose to use it.**
-- Performance
-- Scalability
-- Versatility
-- Resource Efficiency
+- Pronounce it like engin x
+- Organizations choose NGINX for its performance, scalability, versatility, cost effectiveness, reliability and strong support from the tech community making it a preferred choice for optimizing web infrastructure.
 
 ## Resources Used:
 - https://www.nginx.com/resources/glossary/nginx/
