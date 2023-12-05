@@ -24,7 +24,7 @@
 - Load Balancer for distribution
 - SSL terminaiton and content caching
 
-**Describe, as if to a non-technical friend how to actually pronounce “NGINX”, and why an org might chooose to use it.**
+**Describe, as if to a non-technical friend how to actually pronounce “NGINX”, and why an org might choose to use it.**
 - Pronounce it like engin x
 - Organizations choose NGINX for its performance, scalability, versatility, cost effectiveness, reliability and strong support from the tech community making it a preferred choice for optimizing web infrastructure.
 
