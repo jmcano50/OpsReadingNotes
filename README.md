@@ -43,6 +43,9 @@ This is my ops reading notes
 - [Network Address Translation](301reading6.md)
 - [Web Server Deployment](301reading7.md)
 - [RADIUS Authentication](301reading8.md)
+- [Command Line Interface](301reading9.md)
+- [VPC](301reading10.md)
+
 
 
 ## Ops 401: Cybersecurity Engineering
