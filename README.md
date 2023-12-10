@@ -46,6 +46,7 @@ This is my ops reading notes
 
 - [Command Line Interface](301reading9.md)
 - [VPC](301reading10.md)
+- [Windows Server](301reading11.md)
 
 
 
