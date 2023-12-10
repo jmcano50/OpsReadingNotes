@@ -42,7 +42,8 @@ This is my ops reading notes
 - [VPN Tunnel](301reading5.md)
 - [Network Address Translation](301reading6.md)
 - [Web Server Deployment](301reading7.md)
-- [RADIUS Authentication](301reading8.md)
+- [RADIUS Authentication](301reading8.md)cano16266
+
 - [Command Line Interface](301reading9.md)
 - [VPC](301reading10.md)
 
