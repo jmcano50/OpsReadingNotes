@@ -6,7 +6,7 @@
 
 **Reading 12**
 
-## What is a Windows Domain, and How Does It Affect My PC?**
+## What is a Windows Domain, and How Does It Affect My PC?
 
 **Explain the role of a Domain Controller.**
 
