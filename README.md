@@ -48,6 +48,7 @@ This is my ops reading notes
 - [VPC](301reading10.md)
 - [Windows Server](301reading11.md)
 - [Domain Controller](301reading12.md)
+- [Active Directory](301reading13.md)
 
 
 
