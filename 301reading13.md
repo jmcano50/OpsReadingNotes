@@ -15,7 +15,7 @@
 
 **What are the differences between a domain, forest, and tree in Active Directory?**
 
-- **Domain vs. Tree vs. Forest** A domain is a group of objects (like users); a tree is a collection of domains in a contiguous namespace; a forest is a collection of trees with shared global cotalogs and configurations.
+- **Domain vs. Tree vs. Forest** A domain is a group of objects (like users); a tree is a collection of domains in a contiguous namespace; a forest is a collection of trees with shared global catalogs and configurations.
 
 **How can objects (e.g. users, devices) within a domain be grouped?**
 
