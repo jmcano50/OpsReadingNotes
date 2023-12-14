@@ -49,7 +49,7 @@ This is my ops reading notes
 - [Windows Server](301reading11.md)
 - [Domain Controller](301reading12.md)
 - [Active Directory](301reading13.md)
-
+- [Group Policy](301reading14.md)
 
 
 ## Ops 401: Cybersecurity Engineering
