@@ -17,7 +17,6 @@ This is my ops reading notes
 
 ## Ops 201: Foundations of Computer Operations
 - [Metocognative Map](prompt-engineering.md)
-- [Backup Your System][def]
 - [Dev Tools](201reading2.md)
 - [Issue tracking system](201reading3.md)
 - [Troubleshooting Techniques](201reading4.md)
@@ -43,7 +42,6 @@ This is my ops reading notes
 - [Network Address Translation](301reading6.md)
 - [Web Server Deployment](301reading7.md)
 - [RADIUS Authentication](301reading8.md)
-
 - [Command Line Interface](301reading9.md)
 - [VPC](301reading10.md)
 - [Windows Server](301reading11.md)
@@ -51,7 +49,7 @@ This is my ops reading notes
 - [Active Directory](301reading13.md)
 - [Group Policy](301reading14.md)
 
-
+*January 08, 2024*
 ## Ops 401: Cybersecurity Engineering
 
 - [def](401reading1.md)
