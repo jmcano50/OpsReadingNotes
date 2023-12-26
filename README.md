@@ -54,5 +54,4 @@ This is my ops reading notes
 
 ## Ops 401: Cybersecurity Engineering
 
-
-[def]: 201reading1.md
+- [def](401reading1.md)
