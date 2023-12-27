@@ -50,7 +50,7 @@ This is my ops reading notes
 - [Group Policy](301reading14.md)
 
 *January 08, 2024*
-## Ops 401: Cybersecurity Engineering
+# Ops 401: Cybersecurity Engineering
 
 ## Module 1 Governance, Risk, and Compliance (GRC)
 - [Strategic Policy Development ](401reading1.md)
