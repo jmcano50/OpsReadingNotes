@@ -2,9 +2,9 @@
 
 *November 17, 2023*
 
-# Ops-Reading-Notes
+# *Ops-Reading-Notes*
 This is my ops reading notes
-## Ops 102: Intro to Computer Operations
+# Ops 102: Intro to Computer Operations
 - [Case Study: China’s Spy Chip](reading1.md)
 - [Build a Computer](reading2.md)
 - [What is the BIOS](reading3.md)
@@ -15,7 +15,7 @@ This is my ops reading notes
 - [Virtualization of Windows OS](reading8.md)
 - [Command Line Interface](reading9.md)
 
-## Ops 201: Foundations of Computer Operations
+# Ops 201: Foundations of Computer Operations
 - [Metocognative Map](prompt-engineering.md)
 - [Dev Tools](201reading2.md)
 - [Issue tracking system](201reading3.md)
@@ -32,7 +32,7 @@ This is my ops reading notes
 - [Malware Remediation Tools and Techniques](201reading14.md)
 
 *November 27, 2023* 
-## Ops 301: Networking and Systems Administration
+# Ops 301: Networking and Systems Administration
 
 - [Readings: Network Traffic Analysis with Wireshark](301reading1.md)
 - [Network scanning with NMAP](301reading2.md)
