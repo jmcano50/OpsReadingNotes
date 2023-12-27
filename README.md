@@ -59,42 +59,57 @@ This is my ops reading notes
 - [Cyber Risk Analysis]()
 - [Systems Hardening with CIS Standards]()
 - [Encryption]()
+
+## Module 2 Data Security
 - [Data File Encryption and Hashing]()
 - [Protecting Data at Res]()
-## Module 2 Data Security
-- [ ]()
-
+- [DLP and Classification]()
+- [Public Key & Infrastructure]()
+- [Advanced Event Logging]()
 
 ## Module 3 Security Operations
-- [ ]()
-
+- [Foundational SIEM Operations]()
+- [Log Analysis with Splunk]()
+- [Reconstructing a Cloud Attack Using Log Data]()
+- [Intrusion Detection & Prevention Systems IDS/IPS]()
+- [Brute Force Attacks]()
 
 ## Module 4 Cloud Security
-- [ ]()
-
-
+- [Cloud Identity and Access Management (IAM) with AWS]()
+- [Cloud Network Security]()
+- [Cloud Logging and Monitoring]()
+- [Cloud Detective Controls, Guard Duty]()
 
 ## Module 5 Midterm Project
 - [ ]()
 
-
-
 ## Module 6 Threat Modeling and Analysis
-- [ ]()
-
-
+- [Remote Code Execution ]()
+- [Persistence]()
+- [Log Clearing]()
+- [Modeling and Web Application]()
+- []
 
 ## Module 7 Threat Hunting
-- [ ]()
-
+- [Threat Hunting & YARA ]()
+- [Maleware Traffic Analysis with WireShark]()
+- [Threat Hunting with Zeek, RITA]()
+- [Forensic Investigations with Autopsy]()
 
 ## Module 8 Web Application Security
-- [ ]()
-
+- [Web Vulnerability Scanning with Nmap]()
+- [XSS with w3af, DVWA]()
+- [Automated AppSec with OWASP ZAP]()
+- [Attacking Juice Shop with Burp Suite]()
+- [SQLi with Burp Suite, Web Goat]()
+- [Vulnerability Scanning with Nessus]()
 
 ## Module 9 Penetration Testing
-- [ ]()
-
+- [Reconnaissance with Maltego]()
+- [Pass the Hash with Mimikatz]()
+- [Traffic Sniffing with Ettercap]()
+- [Pentest Practice 1 of 2]()
+- [Pentest Practice 2 of 2]()
 
 ## Module 10 Final Project
 - [ ]()
