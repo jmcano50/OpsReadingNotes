@@ -2,4 +2,4 @@
 
 *January 08, 2024*
 
-## Strategic Policy Development
+## Growth Mindset

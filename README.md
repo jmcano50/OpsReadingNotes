@@ -53,9 +53,14 @@ This is my ops reading notes
 # Ops 401: Cybersecurity Engineering
 
 ## Module 1 Governance, Risk, and Compliance (GRC)
-- [Strategic Policy Development ](401reading1.md)
-
-
+- [Growth Mindset ](401reading1.md)
+- [Strategic Policy & Development]()
+- [Cloud Security Principles and Framework]()
+- [Cyber Risk Analysis]()
+- [Systems Hardening with CIS Standards]()
+- [Encryption]()
+- [Data File Encryption and Hashing]()
+- [Protecting Data at Res]()
 ## Module 2 Data Security
 - [ ]()
 
