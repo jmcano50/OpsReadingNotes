@@ -52,4 +52,44 @@ This is my ops reading notes
 *January 08, 2024*
 ## Ops 401: Cybersecurity Engineering
 
-- [def](401reading1.md)
+## Module 1 Governance, Risk, and Compliance (GRC)
+- [Strategic Policy Development ](401reading1.md)
+
+
+## Module 2 Data Security
+- [ ]()
+
+
+## Module 3 Security Operations
+- [ ]()
+
+
+## Module 4 Cloud Security
+- [ ]()
+
+
+
+## Module 5 Midterm Project
+- [ ]()
+
+
+
+## Module 6 Threat Modeling and Analysis
+- [ ]()
+
+
+
+## Module 7 Threat Hunting
+- [ ]()
+
+
+## Module 8 Web Application Security
+- [ ]()
+
+
+## Module 9 Penetration Testing
+- [ ]()
+
+
+## Module 10 Final Project
+- [ ]()
