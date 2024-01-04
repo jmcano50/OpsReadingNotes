@@ -47,4 +47,6 @@ Videos
 Security Audits - CompTIA Security+ SY0-401: 2.3
 
 ## Resources Used: 
+#### _Additional Sources_
+
 \| [Security Audits - CompTIA Security+ SY0-401: 2.3](https://www.youtube.com/watch?v=FrzpyLZYKxo\&ab\_channel=ProfessorMesser) |
