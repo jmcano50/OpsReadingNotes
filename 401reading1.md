@@ -47,4 +47,4 @@ Videos
 Security Audits - CompTIA Security+ SY0-401: 2.3
 
 ## Resources Used: 
-https://www.vendr.com/blog/soc-2-compliance-guide
+\| [Security Audits - CompTIA Security+ SY0-401: 2.3](https://www.youtube.com/watch?v=FrzpyLZYKxo\&ab\_channel=ProfessorMesser) |
