@@ -8,7 +8,7 @@
 
 In the field of cybersecurity, mindset significantly influences our approach to addressing security threats, devising strategies, and maintaining operational resilience in the ever-evolving technological world. 
 
-A growth-oriented mindset promotes continuous learning, adaptability, attention to detail and innovative problem-solving, essential qualities in a domain where cyber threats are constantly changing. Furthermore, this mindset encourages efficiency, resilience, and proactive thinking in operational management.
+A growth-oriented mindset promotes continuous learning, adaptability, attention to detail, and innovative problem-solving, essential qualities in a domain where cyber threats are constantly changing. Furthermore, this mindset encourages efficiency, resilience, and proactive thinking in operational management.
 
 **1. How can deliberate practice be specifically applied to improve technical skills in the tech industry?**
 
@@ -35,9 +35,7 @@ A growth-oriented mindset promotes continuous learning, adaptability, attention 
 
 ## Things I want to know more about
 
-To foster a growth mindset and harness the power of my past experiences for personal growth, I plan to make time for self-discovery and development. 
-
-I'll explore resources to deepen my understanding of growth mindset principles, seek mentorship, and networking with like-minded individuals will be integral to my growth. 
+I want to know more about how I can foster a growth mindset and harness the power of my past experiences for personal growth. I plan to make time for self-discovery and development. I'll explore resources to deepen my understanding of growth mindset principles, seek mentorship, and network with like-minded individuals, which will be important to my growth.
 
 ## Resources: 
 - https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice
