@@ -49,3 +49,7 @@ I want to know more about how I can foster a growth mindset and harness the powe
 - https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html
 
 - https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.html
+
+- https://timreview.ca/article/1258
+
+- https://yourstory.com/2023/07/amazon-journey-garage-tech-giant
