@@ -18,6 +18,7 @@
 - Lowest level (IaaS): Is like renting land and tools to build a house. You do most of the work. (AWS EC2)
 - Middle level (PaaS): Is like renting a partially-built house. You complete the interior. (AWS Elastic Beanstalk)
 - Highest Level (SaaS): Like renting fully furnished house. Everything's ready; just move in. (AWS Chime)
+
 **2. What are the control plane and data plane responsible for in container abstraction?**
 
 - Control Plane - Manages how containers, small software units, are created, organized, and scaled, like a city planner.
