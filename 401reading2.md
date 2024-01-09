@@ -29,5 +29,7 @@
 - Lambda is at a very high level of abstraction. (Like a magic house that appears when you need it and vanishes when you don't) You provide the instructions (code), and it takes care of everything else-building, running, and maintaining.
 - What is so Special: You don't worry about the underlying infrastructure at all. You are only charged for the exact time your code runs, making it efficient and cost-effective.
 
+## Things I want to know more about: 
+- I would like to know more about developing AWS skills that are most valued and sought after by employers. How to recognize and enhance these marketable skills.
 Resources: 
 - https://chat.openai.com/share/89f21888-9910-4543-8e25-d53133139478
