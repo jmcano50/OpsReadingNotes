@@ -55,7 +55,7 @@ This is my ops reading notes
 ## Module 1 Governance, Risk, and Compliance (GRC)
 - [Growth Mindset ](401TheGrowthMindset.md)
 - [Strategic Policy & Development](401reading1.md)
-- [Cloud Security Principles and Framework]()
+- [Cloud Security Principles and Framework](401reading2.md)
 - [Cyber Risk Analysis]()
 - [Systems Hardening with CIS Standards]()
 - [Encryption]()
