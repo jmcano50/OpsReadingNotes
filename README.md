@@ -56,7 +56,7 @@ This is my ops reading notes
 - [Growth Mindset ](401TheGrowthMindset.md)
 - [Strategic Policy & Development](401reading1.md)
 - [Cloud Security Principles and Framework](401reading2.md)
-- [Cyber Risk Analysis]()
+- [Cyber Risk Analysis](401reading3.md)
 - [Systems Hardening with CIS Standards]()
 - [Encryption]()
 
