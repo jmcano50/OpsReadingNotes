@@ -57,7 +57,7 @@ This is my ops reading notes
 - [Strategic Policy & Development](401reading1.md)
 - [Cloud Security Principles and Framework](401reading2.md)
 - [Cyber Risk Analysis](401reading3.md)
-- [Systems Hardening with CIS Standards]()
+- [Systems Hardening with CIS Standards](401reading5.md)
 - [Encryption]()
 
 ## Module 2 Data Security
