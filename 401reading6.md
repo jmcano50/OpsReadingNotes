@@ -47,4 +47,4 @@
 
 ## Things I want to know more about:
 
-- What are the current threats? How are hashing and encryption implemented in the Department of Defense, local and federal law enforcement. What are the day-to-day implementations that are used daily in these professions? What do I need to know to make myself more marketable in these fields of employment.
+- What are the current threats? How are hashing and encryption implemented in the Department of Defense and local and federal law enforcement? What are the day-to-day implementations that are used daily in these professions? What do I need to know to make myself more marketable in these fields of employment?
