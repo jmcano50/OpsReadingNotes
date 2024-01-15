@@ -61,7 +61,7 @@ This is my ops reading notes
 - [Encryption]()
 
 ## Module 2 Data Security
-- [Data File Encryption and Hashing]()
+- [Data File Encryption and Hashing](401reading6.md)
 - [Protecting Data at Res]()
 - [DLP and Classification]()
 - [Public Key & Infrastructure]()
