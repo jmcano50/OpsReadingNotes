@@ -39,8 +39,8 @@
      Similarly, hashing a file creates a unique value (hash). To check if the file has been tampered with, you recompute the hash and compare it with the original. If they match, the file is unchanged. Just like a small change in whisky ingredients alters its flavor, a tiny change in data results in a different hash, indicating alteration.
 
 3. How are hashing and encryption different?
-- Hashing: Is a one-way process, like a fruit smoothy. Once you blend the fruit, you cannot turn the smoothy back to whole fruit. 
-    - Hashes are used to the verify data integrity and authenticity, not for concealing data.
+- Hashing: This is a one-way process, like a fruit smoothy. Once you blend the fruit, you cannot turn the smoothy back to whole fruit. 
+    - Hashes are used to verify data integrity and authenticity, not for concealing data.
 
 - Encryption: This is a two-way process, like using a passcode to lock your cell phone. You encrypt data to make it unreadable to anyone who doesn't have the passcode, and you can decrypt it to return it to its original form, like giving someone your password to open your phone. 
     - Encryption is used for maintaining confidentiality, ensuring that only authorized parties can access and read the data.
