@@ -44,3 +44,7 @@
 
 - Encryption: This is a two-way process, like using a passcode to lock your cell phone. You encrypt data to make it unreadable to anyone who doesn't have the passcode, and you can decrypt it to return it to its original form, like giving someone your password to open your phone. 
     - Encryption is used for maintaining confidentiality, ensuring that only authorized parties can access and read the data.
+
+## Things I want to know more about:
+
+- What are the current threats? How are hashing and encryption implemented in the Department of Defense, local and federal law enforcement. What are the day-to-day implementations that are used daily in these professions? What do I need to know to make myself more marketable in these fields of employment.
