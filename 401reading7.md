@@ -9,7 +9,7 @@
     - Stored Files: Documents, photos, and videos on your computer hard drive.
     - Emails: Emails and documents saved in your inbox on an email server.
     - Cloud Storage Data: Files and documents saved in the cloud (Google Drive, Dropbox, and iCloud).
-    - Database Records: Data stored in databases used by various application, whether on your local machine or on a server.
+    - Database Records: Data stored in databases used by various applications, whether on your local machine or on a server.
     - Backup Data: Data that is backed up and stored on external hard drives, USB drives, or cloud backup services.
 
 2. **Explain the role data encryption with regards to the CIA triad.**
@@ -17,4 +17,4 @@
     - Encryption is key in preserving confidentiality, as it scrambles data, making it unreadable to unauthorized users.
 - Integrity: 
     - Encryption maintains integrity by preventing unauthorized changes to data, both at rest and in transit.
-- Availability: Encryption by itself does not directly contribute to availability, the security it provides ensures that data is protected from, negligence, unauthorized deletions or alterations, therefore maintaining its availability.
+- Availability: Encryption by itself does not directly contribute to availability; the security it provides ensures that data is protected from negligence, unauthorized deletions or alterations, therefore maintaining its availability.
