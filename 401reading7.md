@@ -1,5 +1,7 @@
 *Juan Miguel Cano*
 
+*January 17, 2024*
+
 # Readings: Protecting Data at Rest with Device Encryption
 
 ## Reading 7
