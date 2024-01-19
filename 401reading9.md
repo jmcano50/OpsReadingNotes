@@ -7,7 +7,7 @@
 ## Reading 9
 [What is Public Key Infrastructure (PKI)](https://www.ssh.com/pki/)
 
-## Name the three main components that makes up PKI.
+## Name the three main components that make up PKI.
 
 **How would you explain, to a non-technical friend, the role PKI plays in protecting traffic between your browser and a web server?**
     
