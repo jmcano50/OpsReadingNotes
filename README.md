@@ -64,7 +64,7 @@ This is my ops reading notes
 - [Data File Encryption and Hashing](401reading6.md)
 - [Protecting Data at Rest](401reading7.md)
 - [Data Loss Prevention and Data Classification](401reading8.md)
-- [Public Key & Infrastructure]()
+- [Public Key & Infrastructure](401reading9.md)
 - [Advanced Event Logging]()
 
 ## Module 3 Security Operations
