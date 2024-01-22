@@ -68,7 +68,7 @@ This is my ops reading notes
 - [Advanced Event Logging]()
 
 ## Module 3 Security Operations
-- [Foundational SIEM Operations]()
+- [Foundational SIEM Operations](401reading11.md)
 - [Log Analysis with Splunk]()
 - [Reconstructing a Cloud Attack Using Log Data]()
 - [Intrusion Detection & Prevention Systems IDS/IPS]()
