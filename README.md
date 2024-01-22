@@ -65,7 +65,7 @@ This is my ops reading notes
 - [Protecting Data at Rest](401reading7.md)
 - [Data Loss Prevention and Data Classification](401reading8.md)
 - [Public Key & Infrastructure](401reading9.md)
-- [Advanced Event Logging]()
+- Advanced Event Logging
 
 ## Module 3 Security Operations
 - [Foundational SIEM Operations](401reading11.md)
