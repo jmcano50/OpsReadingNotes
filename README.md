@@ -1,6 +1,6 @@
 *Juan Miguel Cano*
 
-*November 17, 2023*
+*October 9, 2023*
 
 # *Ops-Reading-Notes*
 This is my ops reading notes
