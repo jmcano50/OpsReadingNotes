@@ -27,5 +27,6 @@
 - Simplified Management: Centralizes SSL termination and provides a single point for managing traffic and security policies.
 
 ## Bookmark and Review
-A Conversation About REST API
-Operationalize Ransomware Detections Quickly and Easily with Splunk
+- [A Conversation About REST API](https://gist.github.com/brookr/5977550)
+
+- [Operationalize Ransomware Detections Quickly and Easily with Splunk](https://www.splunk.com/en_us/blog/industries/operationalize-ransomware-detections-quickly-and-easily-with-splunk.html)

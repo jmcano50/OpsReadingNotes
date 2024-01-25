@@ -18,3 +18,4 @@
 - Personal Data Protection: A guard that ensures nobody can steal or accidentally see our personal info, like bank details
 - Preventing Mistakes: A safety net that stops us from accidentally sharing sensitive stuff, like sending an email to the wrong person.
 - Following the Rules: A guide that helps companies follow laws about handling private data, similar to how traffic rules prevent accidents.
+
