@@ -1,13 +1,13 @@
 *Juan Miguel Cano*
 
-*January 24,2024*
+*January 24, 2024*
 
 # Readings: Reconstructing a Cloud Attack with Splunk
 
 ## Reading 13
 [What is a reverse proxy?](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/)
 
-**What are the benefits of a forward proxy.**
+**What are the benefits of a forward proxy?**
 - Anonymity
 - Privacy
 - Content Filtering
