@@ -69,13 +69,13 @@ This is my ops reading notes
 
 ## Module 3 Security Operations
 - [Foundational SIEM Operations](401reading11.md)
-- [Log Analysis with Splunk]()
-- [Reconstructing a Cloud Attack Using Log Data]()
-- [Intrusion Detection & Prevention Systems IDS/IPS]()
+- [Log Analysis with Splunk](401reading12.md)
+- [Reconstructing a Cloud Attack Using Log Data](401reading13.md)
+- [Intrusion Detection & Prevention Systems IDS/IPS](401reading14.md)
 - [Brute Force Attacks]()
 
 ## Module 4 Cloud Security
-- [Cloud Identity and Access Management (IAM) with AWS]()
+- [Cloud Identity and Access Management (IAM) with AWS](401reading16.md)
 - [Cloud Network Security]()
 - [Cloud Logging and Monitoring]()
 - [Cloud Detective Controls, Guard Duty]()
