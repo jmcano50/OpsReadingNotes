@@ -76,7 +76,7 @@ This is my ops reading notes
 
 ## Module 4 Cloud Security
 - [Cloud Identity and Access Management (IAM) with AWS](401reading16.md)
-- [Cloud Network Security]()
+- [Cloud Network Security](401reading17.md)
 - [Cloud Logging and Monitoring]()
 - [Cloud Detective Controls, Guard Duty]()
 
