@@ -85,8 +85,8 @@ This is my ops reading notes
 
 ## Module 6 Threat Modeling and Analysis
 - [Remote Code Execution ](401reading26.md)
-- [Persistence]()
-- [Log Clearing]()
+- [Persistence](401reading27.md)
+- [Log Clearing](401reading28.md)
 - [Modeling and Web Application]()
 - []
 
