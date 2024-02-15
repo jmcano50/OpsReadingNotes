@@ -87,7 +87,7 @@ This is my ops reading notes
 - [Remote Code Execution ](401reading26.md)
 - [Persistence](401reading27.md)
 - [Log Clearing](401reading28.md)
-- [Modeling and Web Application]()
+- [Modeling and Web Application](401reading29.md)
 - []
 
 ## Module 7 Threat Hunting
