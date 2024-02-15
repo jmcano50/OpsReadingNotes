@@ -10,7 +10,7 @@
 [A Beginners Guide To The STRIDE Security Threat Model](https://www.ockam.io/learn/blog/introduction_to_STRIDE_security_model)
 
 1. **Explain threat modeling using real-world non-technical examples.**
-- Think of a building  a house in a neighborhood known for occasional break-ins. Before starting construction, you would want to assess potential security threats to your house and take steps to mitigate them. This could involve installing sturdy locks on doors and windows, adding security cameras, and ensuring proper lighting around the property. Additionally, you might consider factors like the location of the house, nearby escape routes, and the likelihood of burglary based on past incidents in the area.
+- Think of building a house in a neighborhood known for occasional break-ins. Before starting construction, you would want to assess potential security threats to your house and take steps to mitigate them. This could involve installing sturdy locks on doors and windows, adding security cameras, and ensuring proper lighting around the property. Additionally, you might consider factors like the location of the house, nearby escape routes, and the likelihood of burglary based on past incidents in the area.
 
 - In this analogy:
     - Your house represents the web application.
