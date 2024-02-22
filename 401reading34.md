@@ -10,10 +10,10 @@
 1. **What are the main differences between computer forensics and cybersecurity?**
 - Computer Forensics:
     1. Focuses on analyzing digital data for legal purposes.
-    2. Goal is to gather evidence for legal procedings.
+    2. Goal is to gather evidence for legal proceedings.
     3. Involves data recovery, analysis, and forensic reporting.
     4. Typically conducted after a security incident.
-    5. Operates with in a legal framework.
+    5. Operates within a legal framework.
 - Cybersecurity:
     1. Focuses on protecting systems from unauthorized access and attacks.
     2. Goal is to prevent, detect, and mitigate security threats.
