@@ -92,9 +92,10 @@ This is my ops reading notes
 
 ## Module 7 Threat Hunting
 - [Threat Hunting & YARA ]()
-- [Maleware Traffic Analysis with WireShark]()
+- [Maleware Traffic Analysis with WireShark](401reading32.md)
+- [Threat Hunting with Security Onion](401reading33.md)
 - [Threat Hunting with Zeek, RITA]()
-- [Forensic Investigations with Autopsy]()
+- [Forensic Investigations with Autopsy](401reading34.md)
 
 ## Module 8 Web Application Security
 - [Web Vulnerability Scanning with Nmap]()
