@@ -99,7 +99,7 @@ This is my ops reading notes
 
 ## Module 8 Web Application Security
 - [Web Vulnerability Scanning with Nmap]()
-- [XSS with w3af, DVWA]()
+- [XSS with w3af, DVWA](401reading36.md)
 - [Automated AppSec with OWASP ZAP]()
 - [Attacking Juice Shop with Burp Suite]()
 - [SQLi with Burp Suite, Web Goat]()
