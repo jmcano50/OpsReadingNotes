@@ -101,8 +101,8 @@ This is my ops reading notes
 - [Web Vulnerability Scanning with Nmap]()
 - [XSS with w3af, DVWA](401reading36.md)
 - [Automated AppSec with OWASP ZAP](401reading37.md)
-- [Attacking Juice Shop with Burp Suite]()
-- [SQLi with Burp Suite, Web Goat]()
+- [Attacking Juice Shop with Burp Suite](401reading38.md)
+- [SQLi with Burp Suite, Web Goat](401reading39.md)
 - [Vulnerability Scanning with Nessus]()
 
 ## Module 9 Penetration Testing
