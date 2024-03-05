@@ -106,7 +106,7 @@ This is my ops reading notes
 - [Vulnerability Scanning with Nessus]()
 
 ## Module 9 Penetration Testing
-- [Reconnaissance with Maltego]()
+- [Reconnaissance with Maltego](401reading41.md)
 - [Pass the Hash with Mimikatz]()
 - [Traffic Sniffing with Ettercap]()
 - [Pentest Practice 1 of 2]()
