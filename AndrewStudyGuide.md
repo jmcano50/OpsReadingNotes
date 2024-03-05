@@ -282,3 +282,5 @@ Penetration testing (pentesting) is an authorized simulated cyberattack on a com
 | Gaining Access            | Web application attacks, such as cross-site scripting, SQL injection, and backdoors. |
 | Maintaining Access        | To see if the vulnerability can be used to achieve a persistent presence in the exploited system. |
 | Analysis                  | Compiling the results of the penetration test and making recommendations for security improvements. |
+
+Created by: Andrew Thomas Carroll
