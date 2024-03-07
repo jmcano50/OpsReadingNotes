@@ -108,7 +108,7 @@ This is my ops reading notes
 ## Module 9 Penetration Testing
 - [Reconnaissance with Maltego](401reading41.md)
 - [Pass the Hash with Mimikatz](401reading42.md)
-- [Traffic Sniffing with Ettercap]()
+- [Traffic Sniffing with Ettercap](401reading43.md)
 - [Pentest Practice 1 of 2]()
 - [Pentest Practice 2 of 2]()
 
