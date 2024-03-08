@@ -109,6 +109,7 @@ This is my ops reading notes
 - [Reconnaissance with Maltego](401reading41.md)
 - [Pass the Hash with Mimikatz](401reading42.md)
 - [Traffic Sniffing with Ettercap](401reading43.md)
+- [Exploitation with Metasploit](401reading44.md)
 - [Pentest Practice 1 of 2]()
 - [Pentest Practice 2 of 2]()
 
